@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:miniprojectContext"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
